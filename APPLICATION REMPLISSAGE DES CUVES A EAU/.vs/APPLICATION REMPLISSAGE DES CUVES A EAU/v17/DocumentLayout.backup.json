@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KONE MOHAMED\\Documents\\TP VB\\APPLICATION REMPLISSAGE DES CUVES A EAU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5711A97-802D-4AE9-8C7F-85C233E470BD}|APPLICATION REMPLISSAGE DES CUVES A EAU\\APPLICATION REMPLISSAGE DES CUVES A EAU.vbproj|c:\\users\\kone mohamed\\documents\\tp vb\\application remplissage des cuves a eau\\application remplissage des cuves a eau\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D5711A97-802D-4AE9-8C7F-85C233E470BD}|APPLICATION REMPLISSAGE DES CUVES A EAU\\APPLICATION REMPLISSAGE DES CUVES A EAU.vbproj|solutionrelative:application remplissage des cuves a eau\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5711A97-802D-4AE9-8C7F-85C233E470BD}|APPLICATION REMPLISSAGE DES CUVES A EAU\\APPLICATION REMPLISSAGE DES CUVES A EAU.vbproj|c:\\users\\kone mohamed\\documents\\tp vb\\application remplissage des cuves a eau\\application remplissage des cuves a eau\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D5711A97-802D-4AE9-8C7F-85C233E470BD}|APPLICATION REMPLISSAGE DES CUVES A EAU\\APPLICATION REMPLISSAGE DES CUVES A EAU.vbproj|solutionrelative:application remplissage des cuves a eau\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\KONE MOHAMED\\Documents\\TP VB\\APPLICATION REMPLISSAGE DES CUVES A EAU\\APPLICATION REMPLISSAGE DES CUVES A EAU\\Form1.vb",
+              "RelativeDocumentMoniker": "APPLICATION REMPLISSAGE DES CUVES A EAU\\Form1.vb",
+              "ToolTip": "C:\\Users\\KONE MOHAMED\\Documents\\TP VB\\APPLICATION REMPLISSAGE DES CUVES A EAU\\APPLICATION REMPLISSAGE DES CUVES A EAU\\Form1.vb",
+              "RelativeToolTip": "APPLICATION REMPLISSAGE DES CUVES A EAU\\Form1.vb",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-30T09:44:51.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\KONE MOHAMED\\Documents\\TP VB\\APPLICATION REMPLISSAGE DES CUVES A EAU\\APPLICATION REMPLISSAGE DES CUVES A EAU\\Form1.vb",
+              "RelativeDocumentMoniker": "APPLICATION REMPLISSAGE DES CUVES A EAU\\Form1.vb",
+              "ToolTip": "C:\\Users\\KONE MOHAMED\\Documents\\TP VB\\APPLICATION REMPLISSAGE DES CUVES A EAU\\APPLICATION REMPLISSAGE DES CUVES A EAU\\Form1.vb [Conception]",
+              "RelativeToolTip": "APPLICATION REMPLISSAGE DES CUVES A EAU\\Form1.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-30T08:49:39.272Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

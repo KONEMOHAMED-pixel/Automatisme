@@ -1,0 +1,16 @@
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\bin\Debug\net8.0-windows\TP_07.exe
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\bin\Debug\net8.0-windows\TP_07.deps.json
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\bin\Debug\net8.0-windows\TP_07.runtimeconfig.json
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\bin\Debug\net8.0-windows\TP_07.dll
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\bin\Debug\net8.0-windows\TP_07.pdb
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\obj\Debug\net8.0-windows\TP_07.Form1.resources
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\obj\Debug\net8.0-windows\TP_07.vbproj.GenerateResource.cache
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\obj\Debug\net8.0-windows\TP_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\obj\Debug\net8.0-windows\TP_07.AssemblyInfoInputs.cache
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\obj\Debug\net8.0-windows\TP_07.AssemblyInfo.vb
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\obj\Debug\net8.0-windows\TP_07.vbproj.CoreCompileInputs.cache
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\obj\Debug\net8.0-windows\TP_07.dll
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\obj\Debug\net8.0-windows\refint\TP_07.dll
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\obj\Debug\net8.0-windows\TP_07.pdb
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\obj\Debug\net8.0-windows\TP_07.genruntimeconfig.cache
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_07\TP_07\obj\Debug\net8.0-windows\ref\TP_07.dll

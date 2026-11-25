@@ -1,0 +1,6 @@
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_05\TP_05\obj\Debug\net8.0-windows\TP_05.Form1.resources
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_05\TP_05\obj\Debug\net8.0-windows\TP_05.vbproj.GenerateResource.cache
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_05\TP_05\obj\Debug\net8.0-windows\TP_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_05\TP_05\obj\Debug\net8.0-windows\TP_05.AssemblyInfoInputs.cache
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_05\TP_05\obj\Debug\net8.0-windows\TP_05.AssemblyInfo.vb
+C:\Users\KONE MOHAMED\Documents\TP VB\TP_05\TP_05\obj\Debug\net8.0-windows\TP_05.vbproj.CoreCompileInputs.cache

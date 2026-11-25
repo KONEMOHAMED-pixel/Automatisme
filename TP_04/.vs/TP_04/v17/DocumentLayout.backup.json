@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KONE MOHAMED\\Documents\\TP VB\\TP_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2191847B-1DED-48CA-8043-03800559F8B0}|TP_04\\TP_04.vbproj|c:\\users\\kone mohamed\\documents\\tp vb\\tp_04\\tp_04\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2191847B-1DED-48CA-8043-03800559F8B0}|TP_04\\TP_04.vbproj|solutionrelative:tp_04\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2191847B-1DED-48CA-8043-03800559F8B0}|TP_04\\TP_04.vbproj|c:\\users\\kone mohamed\\documents\\tp vb\\tp_04\\tp_04\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2191847B-1DED-48CA-8043-03800559F8B0}|TP_04\\TP_04.vbproj|solutionrelative:tp_04\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\KONE MOHAMED\\Documents\\TP VB\\TP_04\\TP_04\\Form1.vb",
+              "RelativeDocumentMoniker": "TP_04\\Form1.vb",
+              "ToolTip": "C:\\Users\\KONE MOHAMED\\Documents\\TP VB\\TP_04\\TP_04\\Form1.vb",
+              "RelativeToolTip": "TP_04\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-14T09:20:32.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\KONE MOHAMED\\Documents\\TP VB\\TP_04\\TP_04\\Form1.vb",
+              "RelativeDocumentMoniker": "TP_04\\Form1.vb",
+              "ToolTip": "C:\\Users\\KONE MOHAMED\\Documents\\TP VB\\TP_04\\TP_04\\Form1.vb [Conception]",
+              "RelativeToolTip": "TP_04\\Form1.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-14T08:49:08.364Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KONE MOHAMED\\Documents\\TP LANGAGE VB\\TEST_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43CFE0AB-2D6B-4B42-BB5E-9A661385A666}|TEST_2\\TEST_2.vbproj|c:\\users\\kone mohamed\\documents\\tp langage vb\\test_2\\test_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{43CFE0AB-2D6B-4B42-BB5E-9A661385A666}|TEST_2\\TEST_2.vbproj|solutionrelative:test_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CFE0AB-2D6B-4B42-BB5E-9A661385A666}|TEST_2\\TEST_2.vbproj|c:\\users\\kone mohamed\\documents\\tp langage vb\\test_2\\test_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{43CFE0AB-2D6B-4B42-BB5E-9A661385A666}|TEST_2\\TEST_2.vbproj|solutionrelative:test_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\KONE MOHAMED\\Documents\\TP LANGAGE VB\\TEST_2\\TEST_2\\Form1.vb",
+              "RelativeDocumentMoniker": "TEST_2\\Form1.vb",
+              "ToolTip": "C:\\Users\\KONE MOHAMED\\Documents\\TP LANGAGE VB\\TEST_2\\TEST_2\\Form1.vb",
+              "RelativeToolTip": "TEST_2\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAIA4wBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-14T06:12:23.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\KONE MOHAMED\\Documents\\TP LANGAGE VB\\TEST_2\\TEST_2\\Form1.vb",
+              "RelativeDocumentMoniker": "TEST_2\\Form1.vb",
+              "ToolTip": "C:\\Users\\KONE MOHAMED\\Documents\\TP LANGAGE VB\\TEST_2\\TEST_2\\Form1.vb [Conception]",
+              "RelativeToolTip": "TEST_2\\Form1.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-13T09:29:32.58Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
