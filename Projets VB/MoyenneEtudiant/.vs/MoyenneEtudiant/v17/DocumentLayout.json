@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KONE MOHAMED\\Documents\\Automatisme\\Projets VB\\MoyenneEtudiant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D3496-78B6-4D60-A21A-73A84E76C24D}|MoyenneEtudiant.vbproj|c:\\users\\kone mohamed\\documents\\automatisme\\projets vb\\moyenneetudiant\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FA2D3496-78B6-4D60-A21A-73A84E76C24D}|MoyenneEtudiant.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D3496-78B6-4D60-A21A-73A84E76C24D}|MoyenneEtudiant.vbproj|c:\\users\\kone mohamed\\documents\\automatisme\\projets vb\\moyenneetudiant\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FA2D3496-78B6-4D60-A21A-73A84E76C24D}|MoyenneEtudiant.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2D3496-78B6-4D60-A21A-73A84E76C24D}|MoyenneEtudiant.vbproj|c:\\users\\kone mohamed\\documents\\automatisme\\projets vb\\moyenneetudiant\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FA2D3496-78B6-4D60-A21A-73A84E76C24D}|MoyenneEtudiant.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\KONE MOHAMED\\Documents\\Automatisme\\Projets VB\\MoyenneEtudiant\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\KONE MOHAMED\\Documents\\Automatisme\\Projets VB\\MoyenneEtudiant\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-27T23:11:15.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\KONE MOHAMED\\Documents\\Automatisme\\Projets VB\\MoyenneEtudiant\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "C:\\Users\\KONE MOHAMED\\Documents\\Automatisme\\Projets VB\\MoyenneEtudiant\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-27T22:56:42.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\KONE MOHAMED\\Documents\\Automatisme\\Projets VB\\MoyenneEtudiant\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\KONE MOHAMED\\Documents\\Automatisme\\Projets VB\\MoyenneEtudiant\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-27T22:56:24.732Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

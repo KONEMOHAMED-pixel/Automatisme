@@ -1,0 +1,7 @@
+C:\Users\KONE MOHAMED\Documents\Automatisme\Projets VB\MoyenneEtudiant\bin\Debug\MoyenneEtudiant.exe.config
+C:\Users\KONE MOHAMED\Documents\Automatisme\Projets VB\MoyenneEtudiant\bin\Debug\MoyenneEtudiant.exe
+C:\Users\KONE MOHAMED\Documents\Automatisme\Projets VB\MoyenneEtudiant\bin\Debug\MoyenneEtudiant.pdb
+C:\Users\KONE MOHAMED\Documents\Automatisme\Projets VB\MoyenneEtudiant\obj\Debug\MoyenneEtudiant.vbproj.AssemblyReference.cache
+C:\Users\KONE MOHAMED\Documents\Automatisme\Projets VB\MoyenneEtudiant\obj\Debug\MoyenneEtudiant.vbproj.CoreCompileInputs.cache
+C:\Users\KONE MOHAMED\Documents\Automatisme\Projets VB\MoyenneEtudiant\obj\Debug\MoyenneEtudiant.exe
+C:\Users\KONE MOHAMED\Documents\Automatisme\Projets VB\MoyenneEtudiant\obj\Debug\MoyenneEtudiant.pdb

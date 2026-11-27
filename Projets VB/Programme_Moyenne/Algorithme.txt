@@ -1,0 +1,33 @@
+Algorithme Moyenne_Etudiant
+
+Variables
+    note1, note2, note3, moyenne : Réel
+    appreciation : Chaîne
+
+Début
+    Répéter
+        Écrire("Saisir trois notes comprises entre 0 et 20")
+        Lire(note1, note2, note3)
+    Jusqu'à note1 >= 0 ET note1 <= 20 ET
+            note2 >= 0 ET note2 <= 20 ET
+            note3 >= 0 ET note3 <= 20
+
+    moyenne ← Arrondir((note1 + note2 + note3) / 3, 2)
+
+    Si moyenne >= 16 Alors
+        appreciation ← "Très bien"
+    SinonSi moyenne >= 14 Alors
+        appreciation ← "Bien"
+    SinonSi moyenne >= 12 Alors
+        appreciation ← "Assez bien"
+    SinonSi moyenne >= 10 Alors
+        appreciation ← "Passable"
+    SinonSi moyenne >= 8 Alors
+        appreciation ← "Insuffisant"
+    Sinon
+        appreciation ← "Très insuffisant"
+    FinSi
+
+    Écrire("Moyenne : ", moyenne, " / 20")
+    Écrire("Appréciation : ", appreciation)
+Fin

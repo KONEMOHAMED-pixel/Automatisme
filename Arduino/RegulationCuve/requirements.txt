@@ -1,0 +1,2 @@
+# Facultatif si python3-serial est deja installe avec apt.
+pyserial>=3.5,<4
